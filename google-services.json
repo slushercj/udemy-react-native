@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136601780367",
+    "firebase_url": "https://reactnativeboilerplate-c6619.firebaseio.com",
+    "project_id": "reactnativeboilerplate-c6619",
+    "storage_bucket": "reactnativeboilerplate-c6619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136601780367:android:39207df309f727f65bf0fa",
+        "android_client_info": {
+          "package_name": "com.divesh.rnStarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136601780367-14aopsancakd9f92ac37tk05q5kjg20v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_74kcvSZdcjsN3NIOBg2lMBZOGZhW46k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136601780367-14aopsancakd9f92ac37tk05q5kjg20v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
